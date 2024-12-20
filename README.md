@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Photon-08
+- 👋 Hi, I’m Indranil Bhattacharyya
 - 👀 I’m interested in AI & Machine Learning
 - 🌱 I’m currently learning `Computer Vision`
 - 💞️ I’m looking to collaborate on Computer Vision projects
